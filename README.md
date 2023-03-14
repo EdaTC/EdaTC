@@ -1,4 +1,4 @@
-# Evidential-Deep-Learning-for-Traffic-classification
+# EdlTC: Evidential Deep Learning for Traffic Classification
 This repositories is the code for our work "Evidential Deep Learning for Traffic classification"
 
 Thanks to  
