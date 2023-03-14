@@ -2,7 +2,7 @@
 This repositories is the code for our work "Evidential Deep Learning for Traffic classification"
 
 Thanks to https://github.com/echowei/DeepTraffic/tree/master  
-          https://muratsensoy.github.io/uncertainty.html
+             https://muratsensoy.github.io/uncertainty.html
           
 Our work is inspired by the [1][2]. 
 
