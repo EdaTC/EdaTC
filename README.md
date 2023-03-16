@@ -5,7 +5,7 @@ Thanks to
 https://github.com/echowei/DeepTraffic/tree/master  
 https://muratsensoy.github.io/uncertainty.html
           
-Dataset: https://github.com/echowei/DeepTraffic/tree/master
+Dataset: https://github.com/echowei/DeepTraffic/tree/master  
 Our work is inspired by the [1][2]. 
 
 [1] Wei Wang, Xuewen Zeng, Xiaozhou Ye, Yiqiang Sheng and Ming Zhu,"Malware Traffic Classification Using Convolutional Neural Networks for Representation Learning," in the 31st International Conference on Information Networking (ICOIN 2017), pp. 712-717, 2017.
