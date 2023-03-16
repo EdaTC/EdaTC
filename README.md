@@ -1,4 +1,4 @@
-# EdlTC: Evidential Deep Learning for Traffic Classification
+# I Know I don’t Know: An Evidential Deep Learning Method for Traffic Classification
 This repositories is the code for our work "I Know I don’t Know: An Evidential Deep Learning Method for Traffic Classification"
 
 Thanks to  
